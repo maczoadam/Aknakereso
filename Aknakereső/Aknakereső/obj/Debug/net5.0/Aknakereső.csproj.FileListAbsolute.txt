@@ -1,0 +1,16 @@
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\bin\Debug\net5.0\Aknakereső.exe
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\bin\Debug\net5.0\Aknakereső.deps.json
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\bin\Debug\net5.0\Aknakereső.runtimeconfig.json
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\bin\Debug\net5.0\Aknakereső.runtimeconfig.dev.json
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\bin\Debug\net5.0\Aknakereső.dll
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\bin\Debug\net5.0\ref\Aknakereső.dll
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\bin\Debug\net5.0\Aknakereső.pdb
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\obj\Debug\net5.0\Aknakereső.csproj.AssemblyReference.cache
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\obj\Debug\net5.0\Aknakereső.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\obj\Debug\net5.0\Aknakereső.AssemblyInfoInputs.cache
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\obj\Debug\net5.0\Aknakereső.AssemblyInfo.cs
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\obj\Debug\net5.0\Aknakereső.csproj.CoreCompileInputs.cache
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\obj\Debug\net5.0\Aknakereső.dll
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\obj\Debug\net5.0\ref\Aknakereső.dll
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\obj\Debug\net5.0\Aknakereső.pdb
+C:\Users\maczo\source\repos\Aknakereső\Aknakereső\obj\Debug\net5.0\Aknakereső.genruntimeconfig.cache
